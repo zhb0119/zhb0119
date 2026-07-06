@@ -30,7 +30,6 @@ My research interests focus on **Trustworthy AI**, especially watermarking and f
 
 - **Trustworthy AI** `2025 - Present`
   - **LLM Watermark / LLM Fingerprint**
-  - Exploring watermarking techniques for large language models, with a focus on reliable identification, robustness, and responsible AI deployment.
   - **Alignment**
 
 ## 📫 Contact Me
