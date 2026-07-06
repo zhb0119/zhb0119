@@ -21,8 +21,7 @@ My research interests focus on **Trustworthy AI**, especially watermarking and f
 
 ## 🎓 Education
 
-- `2023 - Present`
-  - **Zhejiang University of Technology**
+-  **Zhejiang University of Technology** `2023 - Present`
   - B.S. in Intelligent Science and Technology
   - College of Information Engineering
 
