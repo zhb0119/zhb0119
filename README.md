@@ -15,11 +15,12 @@
 ---
 
 ## 👨‍💻 About
-I am **HaoBo Zhang** (张皓博), a third-year undergraduate student majoring in **Intelligent Science and Technology** at the **College of Information Engineering, Zhejiang University of Technology**.
-My research interests focus on **Trustworthy AI**, especially watermarking and fingerprint techniques for large language models.
+I am **HaoBo Zhang** (张皓博), a senior undergraduate student majoring in **Intelligent Science and Technology** at the **College of Information Engineering, Zhejiang University of Technology**, and an incoming Ph.D. student at **Renmin University of China**. My research interests focus on **LLM Safety** and **Post-Training**, especially watermarking, fingerprinting, alignment, and on-policy distillation for large language models.
 
 ## 🎓 Education
-- **Zhejiang University of Technology** `2023 - Present`
+- **Renmin University of China** `start at 2027`
+  - Ph.D. in Computer Science and Technology
+- **Zhejiang University of Technology** `2023 - 2027`
   - B.S. in Intelligent Science and Technology
   - College of Information Engineering
 
