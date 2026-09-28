@@ -29,7 +29,7 @@ My research interests focus on **Trustworthy AI**, especially watermarking and f
 
 - **Trustworthy AI** `2025 - Present`
   - **LLM Watermark / LLM Fingerprint**
-  - **Alignment**
+  - **Alignment & On-Policy Distillation**
 
 ## 📫 Contact Me
 
