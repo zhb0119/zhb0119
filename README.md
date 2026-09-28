@@ -1,12 +1,15 @@
 <div align="center">
+
 # Hi, I'm HaoBo Zhang 👋
-  
+
 <a href="mailto:zhanghaobo@zjut.edu.cn">
   <img src="https://img.shields.io/badge/email-zhanghaobo%40zjut.edu.cn-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email" />
 </a>
+
 <a href="https://scholar.google.com/citations?user=sY6udPcAAAAJ&hl=zh-CN">
   <img src="https://img.shields.io/badge/Google%20Scholar-profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
 </a>
+
 </div>
 
 ---
